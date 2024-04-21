@@ -1,0 +1,18 @@
+.card {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+
+  .equal-height-card {
+    height: 100%; /* Puedes ajustar la altura según tus preferencias */
+  }
+
+  .btn-custom {
+    color: #ffffff;
+    background-color: #f4623a;
+    border-color: #f4623a;
+    text-align: center;
+  }
